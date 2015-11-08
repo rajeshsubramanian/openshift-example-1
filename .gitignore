@@ -1,0 +1,17 @@
+#system files
+.DS_Store
+
+src/main/config/local.properties
+**/node_modules
+**/npm-debug.log
+build/temp
+build/dist
+content
+
+/target
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
